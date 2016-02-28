@@ -1,0 +1,28 @@
+name: Designing Space to Play In
+favicon: null
+layout_spectrum: 0.6602185792289674
+typography_spectrum: 0.3635062803514302
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.3259074355009943
+  lightness: 0.2211960139684379
+  saturation: 0.9214471401646733
+  rhythmicContrast: 0.3976470490451902
+purpose: []
