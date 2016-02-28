@@ -1,6 +1,6 @@
 name: Designing Space to Play In
 favicon: null
-layout_spectrum: 0.6602185792289674
+layout_spectrum: 0.23917
 typography_spectrum: 0.3635062803514302
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.3259074355009943
-  lightness: 0.2211960139684379
-  saturation: 0.9214471401646733
-  rhythmicContrast: 0.3976470490451902
+  brandStrength: 0.625
+  lightness: 0
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
